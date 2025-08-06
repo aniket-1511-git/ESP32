@@ -1,8 +1,8 @@
 #include <WiFi.h>  // Include WiFi library for ESP32
 
 // Wi-Fi credentials
-const char* ssid     = "ANIKET";       // Your Wi-Fi network name
-const char* password = "1111111";       // Your Wi-Fi password
+const char* ssid     = "aniket";       // Your Wi-Fi network name
+const char* password = "aniket1818";       // Your Wi-Fi password
 
 WiFiServer server(80);  // Create a server on port 80 (default HTTP)
 
